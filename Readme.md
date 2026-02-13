@@ -32,7 +32,7 @@ The [Rich Text Editor](https://docs.devexpress.com/WindowsForms/4946/controls-an
 
 [How to: Create Syntax Highlight Tokens to Highlight T-SQL Language Syntax](https://supportcenter.devexpress.com/ticket/details/e4139/how-to-implement-t-sql-language-syntax-highlighting-by-creating-syntax-highlight-tokens)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=rich-text-editor-highlight-syntax&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=rich-text-editor-highlight-syntax&~~~was_helpful=no)
 
